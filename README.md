@@ -1,2 +1,2 @@
 # weatherIcons
-store weather icons for codeine.io local weather app for freecodecamp class
+store weather icons for codepen.io local weather app for freecodecamp class
